@@ -9,7 +9,5 @@ Just drop the prefab into your scene (only appears when an actual tracker enters
 - optional "pet alert" when initially tracked if a "alert.wav" audio file is placed in your root folder (next to exe)
 - use default or custom model provided
 # 
-requires SteamVR and Vive Input Utilities plugins from Unity asset store
-#
 example: 
 https://twitter.com/virtual_dario/status/835548941181681664
